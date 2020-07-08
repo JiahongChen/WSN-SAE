@@ -18,6 +18,7 @@ Due to GitHub file size limitations, datasets are not upload to this repo, you c
 ```
 bash batchrun.sh
 ```
+5. Results will be stored at './results' folder.
 
 # Citation
 Please cite our paper if you use our code for your work.
