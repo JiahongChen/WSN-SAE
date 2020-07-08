@@ -11,9 +11,10 @@ Due to GitHub file size limitations, datasets are not upload to this repo, you c
 
 # Getting Started
 1. Computing environment set up can be refered to [this repo](https://github.com/JiahongChen/Set-up-deep-learning-frameworks-with-GPU-on-Google-Cloud-Platform). 
-..* required pacakes:  tensorflow, pandas, numpy, scipy, argparse.
-2. Download data and place it at './Data' folder
-3. Run the code by
+2. Required pacakes
+```tensorflow, pandas, numpy, scipy, argparse.```
+3. Download data and place it at './Data' folder
+4. Run the code by
 ```
 bash batchrun.sh
 ```
