@@ -8,11 +8,11 @@ Due to GitHub file size limitations, datasets are not upload to this repo, you c
 1. Download raw data from [NOAA](https://www.esrl.noaa.gov/psd/data/gridded/data.noaa.oisst.v2.html)
 2. Request preprocessed data by sending email to me at jhchen@mech.ubc.ca.
 
+
 # Getting Started
 1. Computing environment set up can be refered to [this repo](https://github.com/JiahongChen/Set-up-deep-learning-frameworks-with-GPU-on-Google-Cloud-Platform). 
-
+..* required pacakes:  tensorflow, pandas, numpy, scipy, argparse.
 2. Download data and place it at './Data' folder
-
 3. Run the code by
 ```
 bash batchrun.sh
