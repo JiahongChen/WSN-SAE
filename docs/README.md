@@ -1,5 +1,6 @@
 # WSN-SAE
-![GraphicAbstract](https://github.com/JiahongChen/WSN-SAE/edit/master/docs/GraphicAbstract.pdf)
+<img src="GraphicAbstract.png" width="600">
+
 This is the Python+TensorFlow code to reproduce results for paper ['WSN Sampling Optimization for Signal
 Reconstruction using Spatiotemporal Autoencoder'](https://ieeexplore.ieee.org/document/9133473).
 
