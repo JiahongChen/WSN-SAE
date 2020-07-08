@@ -1,10 +1,8 @@
 # WSN-SAE
-<img src="GraphicAbstract.png" width="600">
-
 This is the Python+TensorFlow code to reproduce results for paper ['WSN Sampling Optimization for Signal
 Reconstruction using Spatiotemporal Autoencoder'](https://ieeexplore.ieee.org/document/9133473).
 
-
+<a href="url"><img src="GraphicAbstract.png" width="600" ></a>
 
 Due to GitHub file size limitations, datasets are not upload to this repo, you can:
 1. Download raw data from [NOAA](https://www.esrl.noaa.gov/psd/data/gridded/data.noaa.oisst.v2.html).
