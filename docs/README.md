@@ -1,4 +1,6 @@
 # WSN-SAE
+[![License](https://img.shields.io/badge/License-BSD%202--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause)
+
 This is the Python+TensorFlow code to reproduce results for paper ['WSN Sampling Optimization for Signal
 Reconstruction using Spatiotemporal Autoencoder'](https://ieeexplore.ieee.org/document/9133473).
 
