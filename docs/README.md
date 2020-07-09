@@ -39,3 +39,7 @@ Please cite our paper if you use our code for your work.
   pages={1-1},
 }
 ```
+
+# To do
+* Code for visualization
+* Code for optimizing WSN sampling strategy
