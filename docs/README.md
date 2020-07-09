@@ -8,17 +8,21 @@ Due to GitHub file size limitations, datasets are not upload to this repo, you c
 1. Download raw data from [NOAA](https://www.esrl.noaa.gov/psd/data/gridded/data.noaa.oisst.v2.html).
 2. Request preprocessed data by sending email to me at jhchen@mech.ubc.ca.
 
+# Requirements
+* Platform : Linux 
+* Computing Environment:
+  * CUDA 10.1 
+  * TensorFlow 1.14.0
+* Packages: ```pandas, numpy, scipy, argparse```.
+* Hardware (optional) : Nvidia GPU (SST requires around 7GB of GPU memory)
 
 # Getting Started
 1. Computing environment set up can be refered to [this repo](https://github.com/JiahongChen/Set-up-deep-learning-frameworks-with-GPU-on-Google-Cloud-Platform). 
-2. Required pacakes
-```tensorflow, pandas, numpy, scipy, argparse```.
-3. Download data and place it at './Data' folder.
-4. Run the code by
+1. Download data and place it at './Data' folder.
+1. Run the code by
 ```
 bash batchrun.sh
 ```
-5. Results will be stored at './results' folder.
 
 # Citation
 Please cite our paper if you use our code for your work.
