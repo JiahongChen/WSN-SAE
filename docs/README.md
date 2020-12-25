@@ -30,14 +30,14 @@ bash batchrun.sh
 Please cite our paper if you use our code for your work.
 ```
 @article{chen2019optimization,
-  title={WSN Sampling Optimization for Signal Reconstruction using Spatiotemporal Autoencoder},
-  author={Chen, Jiahong and Li, Teng and Wang, Jing and de Silva, Clarence W},
-  journal={IEEE Sensors Journal},
+  author={J. {Chen} and T. {Li} and J. {Wang} and C. W. d. {Silva}},
+  journal={IEEE Sensors Journal}, 
+  title={WSN Sampling Optimization for Signal Reconstruction Using Spatiotemporal Autoencoder}, 
   year={2020},
-  volume={},
-  number={},
-  pages={1-1},
-}
+  volume={20},
+  number={23},
+  pages={14290-14301},
+  doi={10.1109/JSEN.2020.3007369}}
 ```
 
 # To do
